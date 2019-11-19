@@ -1,0 +1,6 @@
+Javascript
+html
+css
+c#
+reactjs
+These are my skills.
