@@ -3,4 +3,5 @@ html
 css
 c#
 reactjs
+firebase functions
 These are my skills.
